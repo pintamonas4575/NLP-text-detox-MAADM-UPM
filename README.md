@@ -2,9 +2,13 @@
 
 NLP for detoxing language phrases in several languages.
 
-# 📘 Notebook *prueba_FLAN-T5*
+# 📘 Notebook *prueba_FLAN-T5.ipynb*
 
 Notebook donde se realiza fine-tuning al modelo de Google *Flan-T5* para entrenarlo en text detox.
+
+# 📘 Notebook *práctica_nlp.ipynb*
+
+Notebook donde se realiza la entrega final de la práctica de "text-detox".
 
 # 📂 Carpeta *"data"*
 
@@ -12,11 +16,7 @@ En ella se encuentran los trozos del dataset de la competición PAN de 2024.
 
 # 📂 Carpeta *"utils"*
 
-En ella se encuentran varios notebooks base de NLP.
-
-# 📂 Carpeta *"results"*
-
-Carpeta auxiliar para la ejecución del modelo.
+En ella se encuentra el paper del J-Score.
 
 # ⚖️ Licencia 
 
