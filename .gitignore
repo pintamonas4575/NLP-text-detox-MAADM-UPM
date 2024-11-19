@@ -1,2 +1,3 @@
 checkpoints/
 modelo_local/
+t5_big.pth
